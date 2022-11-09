@@ -1,18 +1,18 @@
-ÕâÊÇÒ»¸ö¸öÈËÑ§Ï°unityshader±àĞ´µÄ¿â
-ÒÔÏÂÊÇÒÑ¾­ÊµÏÖµÄ×ÅÉ«Æ÷Ğ§¹ûÒÔ¼°¼ò¶ÌµÄËµÃ÷
+è¿™æ˜¯ä¸€ä¸ªä¸ªäººå­¦ä¹ unityshaderç¼–å†™çš„åº“
+ä»¥ä¸‹æ˜¯å·²ç»å®ç°çš„ç€è‰²å™¨æ•ˆæœä»¥åŠç®€çŸ­çš„è¯´æ˜
 
-![sssĞ§¹û](ReadmeResources/sss.png)
+![sssæ•ˆæœ](ReadmeResources/sss.png)
 
-**SSSĞ§¹û**£ºAssets/Shaders/L03
+**SSSæ•ˆæœ**ï¼šAssets/Shaders/L03
 
 ---
 
 
 
-![ÈıÉ«Ğ§¹û](Shaders\L07\ReadmeResources\preview.png)
+![ä¸‰è‰²æ•ˆæœ](Shaders/L07/ReadmeResources/preview.png)
 
-**ÈıÉ«**£ºAssets/Shaders/L07
+**ä¸‰è‰²**ï¼šAssets/Shaders/L07
 
-Ò»¸ö·ÖÀëY·½Ïò·¨ÏßÊµÏÖµÄÈıÉ«Ğ§¹û
+ä¸€ä¸ªåˆ†ç¦»Yæ–¹å‘æ³•çº¿å®ç°çš„ä¸‰è‰²æ•ˆæœ
 
 ---
