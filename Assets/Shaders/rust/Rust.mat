@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rust
+  m_Shader: {fileID: 4800000, guid: 2067f970b4cdaf84f84bca2a105d1448, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Tex:
+        m_Texture: {fileID: 2800000, guid: c2d94ea4df523c84ab8d75a9fe12e6d6, type: 3}
+        m_Scale: {x: 3.19, y: 4.41}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Fresnel: 2
+    - _Highlights1: 7.6
+    - _Highlights2: 51
+    - _TextureStrength: 0.433
+    - _node_2671_copy: 42.9
+    m_Colors:
+    - _Color1: {r: 0.024996564, g: 0.31132078, b: 0, a: 1}
+    - _Color2: {r: 0.103773594, g: 0.087285616, b: 0.051397298, a: 1}
+    - _FresnelColor: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 1}
+    - _node_1827: {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 1}
+    - _node_340: {r: 0.3490566, g: 0.3490566, b: 0.3490566, a: 1}
+  m_BuildTextureStacks: []

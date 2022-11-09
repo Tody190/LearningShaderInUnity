@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 755ce65022b702e44b9d58301014986b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _StripeTex: {fileID: 2800000, guid: fc2474ae4a23d844db91fd5c2e1f9729, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
