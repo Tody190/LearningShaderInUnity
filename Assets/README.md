@@ -9,7 +9,7 @@
 
 
 
-![sss效果](Shaders\L07\ReadmeResources\预览.png)
+![三色效果](Shaders\L07\ReadmeResources\preview.png)
 
 **三色**：Assets/Shaders/L07
 
